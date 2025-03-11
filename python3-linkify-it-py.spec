@@ -6,7 +6,7 @@ Summary:	Python port of linkify-it: links recognition library with full Unicode 
 Summary(pl.UTF-8):	Pythonowy port linkify-it: biblioteka dozpoznająca odnośniki z pełną obsługą Unicode
 Name:		python3-linkify-it-py
 Version:	2.0.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/linkify-it-py/
